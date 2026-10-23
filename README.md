@@ -42,6 +42,8 @@ Où et quand les feux de forêt reviennent-ils le plus souvent en Haute-Corse, e
 |---|---|
 | ![](figures/03_croisement_vegetation_bati_feux.png) | ![](figures/05_densite_feux_espace_bati.png) |
 
+![Formations végétales et taux de feux par carreau](figures/04_croisement_formation_vegetale.png)
+
 ## Apport pour l'aménagement
 
 La maille DFCI permet de **hiérarchiser la prévention** : débroussaillement ciblé autour des zones bâties exposées, surveillance renforcée de juillet à septembre et vigilance en intersaison. La méthode est reproductible pour tout autre département méditerranéen.
