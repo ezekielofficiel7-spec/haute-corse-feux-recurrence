@@ -5,8 +5,8 @@
 
 ![Densité des feux par carreau DFCI](figures/01_densite_feux_globale.png)
 
-**Master 1 Géomatique et modélisation spatiale (GMS)**, Aix-Marseille Université · 2025-2026
-Cours *GIS and Spatial Analysis*, sous la direction de Sébastien Bridier · **Projet individuel** · Rapport en anglais
+**Master 1 Géomatique et modélisation spatiale (GMS)**, Aix-Marseille Université | 2025-2026
+Cours *GIS and Spatial Analysis*, sous la direction de Sébastien Bridier | **Projet individuel** | Rapport en anglais
 
 ---
 
@@ -50,15 +50,13 @@ La maille DFCI permet de **hiérarchiser la prévention** : débroussaillement c
 
 ## Outils
 
-`QGIS` · `BDIFF` · `Carroyage DFCI` · `BD TOPO` · tableaux croisés dynamiques
+`QGIS` | `BDIFF` | `Carroyage DFCI` | `BD TOPO` | tableaux croisés dynamiques
 
 ## Contenu du dépôt
 
-```
-├── figures/   cartes finales (densité globale, 12 mois, croisements)
-└── rapport/   rapport complet (PDF, anglais)
-```
+- `figures/` : cartes finales (densité globale, 12 mois, croisements)
+- `rapport/` : rapport complet (PDF, anglais)
 
 ---
 
-**Auteur :** Ezechiel Agbewanou SOUKOU, géomaticien-urbaniste · [LinkedIn](https://www.linkedin.com/in/ezechiel-soukou) · [Autres projets](https://github.com/ezekielofficiel7-spec)
+**Auteur :** Ezechiel Agbewanou SOUKOU, géomaticien-urbaniste | [LinkedIn](https://www.linkedin.com/in/ezechiel-soukou) | [Autres projets](https://github.com/ezekielofficiel7-spec)
